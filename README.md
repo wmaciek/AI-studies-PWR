@@ -4,3 +4,6 @@ For now those that are added:
 1. Semester:
 - Machine Learning
 - DNN Basics
+
+---
+2. Semester:
