@@ -5,5 +5,6 @@ For now those that are added:
 - Machine Learning
 - DNN Basics
 - Probabilistic Graph Models
+- Representation Learning
 ---
 2. Semester:
