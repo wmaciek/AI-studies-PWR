@@ -2,7 +2,7 @@
  Repo for my work at Artificial Intelligence studies at PWR
 For now those that are added:
 1. Semester:
-- Machine Learning
+- Machine Learning :robot:
 - DNN Basics
 - Probabilistic Graph Models
 - Representation Learning
