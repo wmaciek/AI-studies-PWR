@@ -8,3 +8,4 @@ For now those that are added:
 - Representation Learning
 ---
 2. Semester:
+- DNN Advanced
